@@ -1,5 +1,6 @@
 ---
-image: images/irina.jpeg
+image: images/ira.jpg
+title-block-banner: false
 toc: false
 format:
   html:
@@ -8,8 +9,9 @@ format:
       body-width: 1800px
     back-to-top-navigation: false
 about:
-  template: solana
-  image-width: 16em
+  template: trestles
+  image-width: 26em
+  image-title: Photo by Ksenia Pro
 ---
 
 Hello!
