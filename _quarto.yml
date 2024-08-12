@@ -36,6 +36,7 @@ website:
   twitter-card: true
 format:
   html:
+    pagetitle: Irina Lapteva
     page-layout: full
     mainfont: Lato
     toc: true
