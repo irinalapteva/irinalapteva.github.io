@@ -3,6 +3,8 @@
 
 <div class="contact">
 
+- <img src="https://icons.getbootstrap.com/assets/icons/telephone.svg"
+  class="phone" /> [646-812-0164](tel:646-812-0164)
 - <img src="https://icons.getbootstrap.com/assets/icons/envelope-at.svg"
   class="shiftup" /> <irinahop@gmail.com>
 - <img src="https://icons.getbootstrap.com/assets/icons/house.svg"
@@ -24,36 +26,37 @@ performing arts organizations, I am uniquely suited to innovate and
 enhance the arts and education landscape. Driven by a deep passion and a
 strong entrepreneurial spirit, I aim to create transformative
 experiences that resonate with diverse communities and contribute to the
-enduring success of the arts.
+enduring success of organizations and artistic excelance.
 
 ### Experience
 
 ###### **Managing Director**, [CityDance Conservatory](https://www.citydance.net/sac/leadership-staff) <span class="cvdate">2018-2024</span>
 
-- Led and managed logistical and administrative work.
-- Implemented and oversaw day-to-day programs, efficiently and
-  effectively planned and organized education programs and performances
-  and managed communications with the students and parents.
-- Oversaw contract negotiations, created agreements, and managed
-  finances including payroll and other payments.
+- Led and managed logistical, administrative work, and day-to-day
+  operations.
 - Collaborated and worked closely with the Artistic Director to design
   and improve programs, schedule and monitor class and rehearsal
-  schedules, and cast and support performers.
-- Hired and managed a team of around 30 teaching artists, 5 full-time
-  staff members, several contractor workers, guest artists, partners,
-  parent volunteers, interns, work-study teachers, and rehearsal
-  assistants.
+  schedules, and cast and support repertory.
+- Efficiently and effectively planned and organized year-round education
+  programs and managed communications with the students and parents.
+- Managed and supported hiring a team of around 30 teaching artists, 5
+  full-time staff members, several contractor workers, guest artists,
+  partners, parent volunteers, interns, work-study teachers, and
+  rehearsal assistants.
+- Oversaw contract negotiations, created agreements, and managed payroll
+  and other payments for all classes, rehearsals, workshops, events,
+  intensives, and performances.
+- Managed the annual budget for year-round programs in coordination with
+  the goals set by CEO and Artistic Director with the Board, created the
+  budget for summer intensives, developed and managed the production
+  budget to ensure efficient use of resources, as well as the budget for
+  all other artistic projects and events.
 - Planned and managed summer intensives in multiple locations – around 9
   different programs each summer with guest artists and partnering dance
   companies for different levels of dancers, ages 6 to 20.
 - Successfully launched a few summer programs with the Artistic Director
   as well as optimized summer intensive auditions and streamlined the
   enrollment process.
-- Managed the annual budget for year-round programs in coordination with
-  the goals set by CEO with the Board, created the budget for summer
-  intensives, developed and managed the production budget to ensure
-  efficient use of resources, as well as the budget for all other
-  artistic projects and events
 - Oversaw all production aspects from pre-production planning to the
   final performances.
 - Served as Production Head and Stage Manager for all CityDance
@@ -77,10 +80,10 @@ enduring success of the arts.
 - Coordinated a team of teaching artists, engaged volunteers and parents
   on the daily basis, while collaborating closely with classroom
   teachers, school officials, principals, and directors.
-- Wrote grant proposals and reports for more than $200K, managed budgets
-  for education programs, and processed payrolls.
-- Taught dance classes, staged and choreographed dance shows, and acted
-  as a host and stage manager during the performances.
+- Wrote grant proposals and reports for more than $200K and raised funds
+  for education programs.
+- Taught dance classes, staged and choreographed up to one-hour dance
+  shows, and acted as a host and stage manager during the performances.
 - Organized the Nutcracker ballet, the Annual Children’s Festival “The
   World of Dance”, and other performances and lecture demonstrations at
   public schools and colleges for thousands of students.
@@ -103,7 +106,7 @@ enduring success of the arts.
   Autism
   Association](https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin)
 
-###### **Board Member**, Sakha American Diaspora <span class="cvdate">2022-present</span>
+###### **Board Member**, [Sakha American Diaspora](https://www.sakhaopenworld.org) <span class="cvdate">2022-present</span>
 
 - Organized Sakha Summer Festival in NYC park for 250 people with music
   and dance performances, exhibitions and sport competitions
