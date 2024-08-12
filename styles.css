@@ -53,3 +53,7 @@ div.quarto-about-trestles .about-entity:has(img[title="Photo by Ksenia Pro"]):af
   margin: -20px 0px 20px 0px;
   font-size: .75em;
 }
+
+.center {
+  text-align: center;
+}

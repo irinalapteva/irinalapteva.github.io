@@ -1,6 +1,7 @@
 ---
 image: ../images/irina.jpg
 title-block-banner: false
+toc: false
 format:
   html:
     repo-actions: false
@@ -13,5 +14,7 @@ about:
   image-shape: round
   image-title: Photo by Arken Avan
 ---
+
+### Irina Lapteva (she/her){.center}
 
 I strongly believe in power of the arts to bring people together. In particular, the performing arts have always been at the core of my life and a key part of my identity. As an indigenous former ballerina with 2 Master Degrees and more than 15 years of work experience in nonprofit performing arts organizations, I am uniquely suited to innovate and enhance the arts and education landscape. Driven by a deep passion and a strong entrepreneurial spirit, I aim to create transformative experiences that resonate with diverse communities and contribute to the enduring success of the arts.
