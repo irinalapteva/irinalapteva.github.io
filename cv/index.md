@@ -3,6 +3,8 @@
 
 <div class="contact">
 
+- <img src="https://icons.getbootstrap.com/assets/icons/telephone.svg"
+  class="phone" /> [646-812-0164](tel:646-812-0164)
 - <img src="https://icons.getbootstrap.com/assets/icons/envelope-at.svg"
   class="shiftup" /> <irinahop@gmail.com>
 - <img src="https://icons.getbootstrap.com/assets/icons/house.svg"
@@ -24,7 +26,7 @@ performing arts organizations, I am uniquely suited to innovate and
 enhance the arts and education landscape. Driven by a deep passion and a
 strong entrepreneurial spirit, I aim to create transformative
 experiences that resonate with diverse communities and contribute to the
-enduring success of organizations and artistic excelance.
+enduring success of organizations and artistic excellence.
 
 ### Experience
 
