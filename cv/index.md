@@ -3,8 +3,6 @@
 
 <div class="contact">
 
-- <img src="https://icons.getbootstrap.com/assets/icons/telephone.svg"
-  class="phone" /> [646-812-0164](tel:646-812-0164)
 - <img src="https://icons.getbootstrap.com/assets/icons/envelope-at.svg"
   class="shiftup" /> <irinahop@gmail.com>
 - <img src="https://icons.getbootstrap.com/assets/icons/house.svg"
