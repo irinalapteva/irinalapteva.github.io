@@ -41,8 +41,8 @@ format:
     mainfont: Lato
     toc: true
     theme:
-      light: [flatly, light.scss]
       dark: [darkly, dark.scss]
+      light: [flatly, light.scss]
     css: styles.css
 execute:
   freeze: true

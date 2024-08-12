@@ -23,12 +23,6 @@ format:
 
 
 
-
-
-
-
-
-
 ::: contact
 -   ![](https://icons.getbootstrap.com/assets/icons/telephone.svg){.phone} [646-812-0164](tel:646-812-0164)
 -   ![](https://icons.getbootstrap.com/assets/icons/envelope-at.svg){.shiftup} [irinahop\@gmail.com](mailto:irinahop@gmail.com)
@@ -38,7 +32,7 @@ format:
 
 ### Mission
 
-I strongly believe in power of the arts to bring people together. In particular, the performing arts have always been at the core of my life and a key part of my identity. As an indigenous former ballerina with 2 Master Degrees and more than 15 years of work experience in nonprofit performing arts organizations, I am uniquely suited to innovate and enhance the arts and education landscape. Driven by a deep passion and a strong entrepreneurial spirit, I aim to create transformative experiences that resonate with diverse communities and contribute to the enduring success of organizations and artistic excelance.
+I strongly believe in power of the arts to bring people together. In particular, the performing arts have always been at the core of my life and a key part of my identity. As an indigenous former ballerina with 2 Master Degrees and more than 15 years of work experience in nonprofit performing arts organizations, I am uniquely suited to innovate and enhance the arts and education landscape. Driven by a deep passion and a strong entrepreneurial spirit, I aim to create transformative experiences that resonate with diverse communities and contribute to the enduring success of organizations and artistic excellence.
 
 ### Experience
 
