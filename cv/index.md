@@ -103,7 +103,7 @@ enduring success of the arts.
   Autism
   Association](https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin)
 
-###### **Board Member**, [Sakha American Society](https://www.sakhaopenworld.org) <span class="cvdate">2022-present</span>
+###### **Board Member**, Sakha American Diaspora <span class="cvdate">2022-present</span>
 
 - Organized Sakha Summer Festival in NYC park for 250 people with music
   and dance performances, exhibitions and sport competitions
