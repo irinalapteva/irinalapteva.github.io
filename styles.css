@@ -4,45 +4,56 @@ p, ul {
 }
 
 @media only screen and (max-width: 558px) {
-    a.navbar-brand, span.navbar-title {
-        display: none;
-    }
+  a.navbar-brand, span.navbar-title {
+      display: none;
+  }
 }
 
 @media only screen and (max-width: 375px) {
-    div.quarto-navbar-tools {
-        display: none;
-    }
+  div.quarto-navbar-tools {
+      display: none;
+  }
 }
 
 @media only screen and (max-width: 290px) {
 div#quarto-search {
-        display: none;
-    }
+      display: none;
+  }
 }
 
 code { padding: 0px; }
 
 
-div.quarto-about-marquee div.about-image-container {
-    display: flex;
+div.quarto-about-trestles .about-contents  p {
+  text-align: justify;
+  padding-right: 10px;
 }
 
-div.quarto-about-marquee div.about-image-container {
-    flex-direction: column;
-    align-content: flex-end;
+div.quarto-about-trestles .about-contents {
+  border-left: none;
+  padding-right: 10px;
+}
+
+@media only screen and (min-width: 992px) {
+  div.quarto-about-trestles .about-entity:has(img[title="Photo by Arken Avan"]) {
+    order: 2;
+  }
 }
 
 div.quarto-about-trestles .about-entity:has(img[title="Photo by Arken Avan"]):after {
-    content: "Photo by Arken Avan";
-    text-align: center;
-    margin: -20px 0px 20px 0px;
-    font-size: .75em;
+  content: "Photo by Arken Avan";
+  text-align: center;
+  margin: -20px 0px 20px 0px;
+  font-size: .75em;
 }
 
 div.quarto-about-trestles .about-entity:has(img[title="Photo by Ksenia Pro"]):after {
-    content: "Photo by Ksenia Pro";
-    text-align: center;
-    margin: -20px 0px 20px 0px;
-    font-size: .75em;
+  content: "Photo by Ksenia Pro";
+  text-align: center;
+  margin: -20px 0px 20px 0px;
+  font-size: .75em;
+}
+
+.center {
+  text-align: center;
 }
