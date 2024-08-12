@@ -26,6 +26,9 @@ format:
 
 
 
+
+
+
 ::: contact
 -   ![](https://icons.getbootstrap.com/assets/icons/telephone.svg){.phone} [646-812-0164](tel:646-812-0164)
 -   ![](https://icons.getbootstrap.com/assets/icons/envelope-at.svg){.shiftup} [irinahop\@gmail.com](mailto:irinahop@gmail.com)
