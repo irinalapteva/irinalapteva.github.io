@@ -1,19 +1,47 @@
 project:
   type: website
-
 website:
-  title: "."
+  search:
+    location: navbar
+    type: overlay
+    keyboard-shortcut: ["/", "?", "h", "f", "s"]
+    copy-button: true
+    show-item-context: true
+  site-url: https://irinalapteva.github.io
+  repo-url: https://github.com/irinalapteva/irinalapteva.github.io
+  repo-actions: [source]
+  favicon: images/deidek.svg
   navbar:
-    left:
-      - href: index.qmd
+    title: Irina Lapteva
+    logo: images/deidek.svg
+    logo-alt: "Decagon made up of 100 triangles"
+    right:
+      - icon: house-door
         text: Home
-      - about.qmd
-
+        href: index.qmd
+      - icon: info-circle
+        text: About
+        href: about/index.qmd
+      - icon: file-earmark-person
+        text: CV/Résumé
+        href: cv/index.qmd
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/irinalapteva
+        target: _blank
+      - icon: envelope-at
+        text: Email
+        href: mailto:irinahop@gmail.com
+  twitter-card: true
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    page-layout: full
+    mainfont: Lato
     toc: true
-
-
-
+    theme:
+      light: [flatly, light.scss]
+      dark: [darkly, dark.scss]
+    css: styles.css
+execute:
+  freeze: true
+  cache: true

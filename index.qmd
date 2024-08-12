@@ -1,7 +1,20 @@
 ---
-title: "."
+image: images/irina.png
+toc: false
+format:
+  html:
+    repo-actions: false
+    grid:
+      body-width: 1800px
+    back-to-top-navigation: false
+about:
+  template: solana
+  image-shape: round
+  image-width: 16em
 ---
 
-This is a Quarto website.
+Hello!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my personal website!
+
+Have fun looking around!

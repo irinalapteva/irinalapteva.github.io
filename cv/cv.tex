@@ -1,0 +1,373 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{svg}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{fontawesome5}{}{\usepackage{fontawesome5}}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Irina Lapteva},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Irina Lapteva}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+\begin{contact}
+
+\begin{itemize}
+\tightlist
+\item
+  \faIcon{thumbs-up} \includesvg{cv_files/mediabag/telephone.svg}
+  \href{tel:646-812-0164}{646-812-0164}
+\item
+  \faIcon{thumbs-up}
+  \includesvg{cv_files/mediabag/envelope-at.svg}\url{irinahop@gmail.com}
+\item
+  \faIcon{thumbs-up} \includesvg{cv_files/mediabag/house.svg}
+  \href{https://irinalapteva.github.io}{irinalapteva.github.io}
+\item
+  \faIcon{thumbs-up} \includesvg{cv_files/mediabag/linkedin.svg}
+  \href{https://www.linkedin.com/in/irinalapteva}{irinalapteva}
+\end{itemize}
+
+\end{contact}
+
+\subsubsection{Mission}\label{mission}
+
+My love for arts and my entrepreneurial passion motivate me to continue
+learning about all aspects of the arts industry - artistic and business,
+nonprofit and commercial - while staying focused on being a Performing
+Arts project manager, creating and organizing education programs,
+performances, and tours. I am a former professional ballerina originally
+from Yakutsk, Siberia with more than 15-year work experience in
+performing arts and organization management.
+
+\subsubsection{Experience}\label{experience}
+
+\subparagraph{\texorpdfstring{{Managing Director},
+\href{https://www.citydance.net/sac/leadership-staff/}{CityDance
+Conservatory}, MD
+{2018-2024}}{Managing Director, CityDance Conservatory, MD 2018-2024}}\label{managing-director-citydance-conservatory-md-2018-2024}
+
+\begin{itemize}
+\tightlist
+\item
+  Lead and manage the logistical, administrative and artistic support
+  for the CityDance. Implement and oversee day-to-day programs,
+  efficiently and effectively plan and organize education programs,
+  performances, class and rehearsal schedules, monitor casting and
+  communications to the students and parents. Collaborate and work
+  closely with Artistic Director to design and enhance programs
+\item
+  Hiring and managing a team of around 30 teaching artists, 5 staff
+  members plus several other contractor workers, coordinate work of
+  guest artists and partners relations, oversee contract negotiation,
+  create agreements, manage payroll and other payments. Managing work of
+  parent volunteers, interns and streamlining the work of work-study
+  teacher and rehearsal assistants
+\item
+  Planning and managing summer intensives in multiple locations - around
+  9 different programs each summer with guest artists and partnering
+  dance companies for different levels from 6 - 20 y.o dancers.
+  Successfully lunched a few summer programs as well as optimized summer
+  intensive auditions and streamlined the enrollment process
+\item
+  Manage annuale budget for year round programs in coordination with
+  goals set by ED with the board, create budget for summer intensives,
+  develop and manage production budget, ensuring efficient use of
+  resources, as well as budget for all other artistic projects and
+  events
+\item
+  Oversee all production aspects from pre-production planning to final
+  performances. Production head and Stage Manager for all CityDance
+  performances at Strathmore, Kennedy Center, Atlas Performing Arts
+  Center, and other rented venues. Overseeing rental agreements
+\item
+  Successfully lunched students support services, such us senior support
+  for juniors and seniors to get to colleges and dance companies,
+  support and preparation for veriouse dance competitions and student
+  choreography projects
+\item
+  Lead the organization into a swift transition to online classrooms via
+  MS Teams during the COVID-19 pandemic with livestream performances,
+  that not only kept all the Conservatory students and teachers, but
+  also increased enrollment and brought the Conservatory to top 5\% of
+  prestigious Ballet Academies in the US.
+\end{itemize}
+
+\subparagraph{\texorpdfstring{{Director of Education Programs},
+\href{https://www.brightonballet.org/}{Brighton Ballet Theater (BBT)},
+NY
+{2010-2018}}{Director of Education Programs, Brighton Ballet Theater (BBT), NY 2010-2018}}\label{director-of-education-programs-brighton-ballet-theater-bbt-ny-2010-2018}
+
+\begin{itemize}
+\tightlist
+\item
+  Create, develop and manage BBT's outreach and education programs at
+  public schools, senior centers and community centers working with up
+  to 500 people who directly participate in the programs
+\item
+  Coordinate a team of teaching artists, and engage volunteers and
+  parents on the daily basis, while collaborating closely with classroom
+  teachers, school officials, principals, and directors managing the BBT
+  programs
+\item
+  Write grant proposals and reports for more than \$200K, budget for
+  education programs, and process payrolls
+\item
+  Teach dance classes, stage/choreograph dance shows, and be a host and
+  stage manager during the performances
+\item
+  Organize the Nutcracker ballet, the Annual Children's Festival ``The
+  World of Dance'', other performances and lecture demonstrations at
+  public schools and colleges for thousands of students
+\item
+  Assisted in opening two Staten Island branches at the JCC and the Snug
+  Harbor. Developed the dance programs there and managed the
+  registration process, budget and marketing
+\item
+  Created with dance magnet of I.S. 228 public school an initiative
+  dancing for social causes while performing in theaters, schools and
+  hospitals to raise awareness about cancer among children. I produced
+  and edited a short documentary movie about it. The movie received the
+  Silver Level Honorable Mention in the 2014
+  \href{https://rfkhumanrights.org/our-impact/education/educators/speak-truth-to-power-video-contest/}{Speak
+  Truth to Power National Film Competition} in partnership with the
+  \hyperref[0]{American Federation of Teachers}~and the
+  \hyperref[0]{Tribeca Festival}
+\item
+  Organized and taught education program through dance and music for
+  children with
+  \href{https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin/}{Autism
+  Spectrum Disorder (ASD) with American Autism Association}
+\end{itemize}
+
+\subparagraph{\texorpdfstring{{\textbf{Board Member}}, Sakha TeTeam -
+\href{https://www.sakhaopenworld.org/}{Sakha American Society}
+{2022-}present}{Board Member, Sakha TeTeam - Sakha American Society 2022-present}}\label{board-member-sakha-teteam---sakha-american-society-2022-present}
+
+\begin{itemize}
+\tightlist
+\item
+  Organized Sakha Festival ``Yhyakh'' in NYC park for 250 people with
+  music and dance performances, exhibitions and sport competitions
+\end{itemize}
+
+\subparagraph{\texorpdfstring{{Consultant}, Academy of Dance and
+Creative Arts
+{2017}}{Consultant, Academy of Dance and Creative Arts 2017}}\label{consultant-academy-of-dance-and-creative-arts-2017}
+
+\begin{itemize}
+\tightlist
+\item
+  Designed a new development strategy
+\item
+  Created new outreach and education programs that allowed to recieve
+  new grants
+\item
+  Assisted with the expansion of local community connections that
+  brought new sponsors
+\item
+  Organized the marketing campaign for the premiere of ballet Cinderella
+\end{itemize}
+
+\subparagraph{\texorpdfstring{{Studio Manager, Co-Owner},
+\href{https://flash-dancing.ru/}{Flash Dancing and Ballet School},
+Moscow, Russia
+{2007-2010}}{Studio Manager, Co-Owner, Flash Dancing and Ballet School, Moscow, Russia 2007-2010}}\label{studio-manager-co-owner-flash-dancing-and-ballet-school-moscow-russia-2007-2010}
+
+\begin{itemize}
+\tightlist
+\item
+  Supported opening of a dance studio while creating and teaching dance
+  programs for adults and children, administrating and coordinating the
+  classes, creating budget and collecting admission fees.
+\item
+  With the team brought a number of subscription clients from 10 to more
+  than 200
+\end{itemize}
+
+\subparagraph{\texorpdfstring{{Ballet Dancer},
+\href{https://sakha-opera.ru/repertuar/}{Yakut State Theatre of Opera
+and Ballet}, Yakutsk, Russia
+{2005-2006}}{Ballet Dancer, Yakut State Theatre of Opera and Ballet, Yakutsk, Russia 2005-2006}}\label{ballet-dancer-yakut-state-theatre-of-opera-and-ballet-yakutsk-russia-2005-2006}
+
+\begin{itemize}
+\tightlist
+\item
+  Performed in ballets and operas including leading roles in full-length
+  operas and ballets: Mercedes in Don Quixote, Raymonda in Raymonda, the
+  Lilac Fairy in The Sleeping Beauty and Black Swans in Swan Lake.
+\end{itemize}
+
+\subparagraph{\texorpdfstring{{Development Intern},
+\href{https://www.abt.org/}{American Ballet Theater}, NY
+{2016}}{Development Intern, American Ballet Theater, NY 2016}}\label{development-intern-american-ballet-theater-ny-2016}
+
+\subparagraph{\texorpdfstring{{Graduate Assistant},
+\href{https://www.nyit.edu/news/features/internship_spotlight_meet_irina_lapteva}{New
+York Institute of Technology}, NY
+{2016}}{Graduate Assistant, New York Institute of Technology, NY 2016}}\label{graduate-assistant-new-york-institute-of-technology-ny-2016}
+
+\subparagraph{\texorpdfstring{{International Programs Intern},
+\href{https://www.joffreyballetschool.com/}{Joffrey Ballet School
+(JBS)}, NY
+{2016}}{International Programs Intern, Joffrey Ballet School (JBS), NY 2016}}\label{international-programs-intern-joffrey-ballet-school-jbs-ny-2016}
+
+\subsubsection{Education}\label{education}
+
+\begin{itemize}
+\tightlist
+\item
+  {MA}, Arts and Entertainment Industries Leadership,
+  \href{https://www.nyit.edu/}{New York Institute of Technology} {2017}
+\item
+  {MA}, Project Management, \href{https://synergy.university/}{Synergy
+  University} {2011}
+\item
+  {BA}, Operational Management,
+  \href{https://synergy.university/}{Synergy University} {2011}
+\item
+  {BA}, Ballet and Performing Arts,
+  \href{https://sakha-ballet.ru/en/}{Poselskaya Yakut Choreographic
+  College} {2011}
+\end{itemize}
+
+
+
+\end{document}

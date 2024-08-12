@@ -1,0 +1,156 @@
+---
+title: "Irina Lapteva"
+css: cv.css
+editor: visual
+format:
+  pdf:
+    pdf-engine: weasyprint
+  html:
+    grid:
+      body-width: 900px
+    output-file: index.html
+    page-navigation: false
+    toc-depth: 2
+    toc: true
+---
+
+::: {.contact .textsuperscript data-latex=""}
+<<<<<<< Updated upstream
+-   ![](https://icons.getbootstrap.com/assets/icons/telephone.svg) [646-812-0164](tel:646-812-0164)
+-   ![](https://icons.getbootstrap.com/assets/icons/envelope-at.svg)[irinahop\@gmail.com](irinahop@gmail.com)
+-   ![](https://icons.getbootstrap.com/assets/icons/house.svg) [irinalapteva.github.io](https://irinalapteva.github.io)
+-   ![](https://icons.getbootstrap.com/assets/icons/linkedin.svg) [irinalapteva](https://www.linkedin.com/in/irinalapteva)
+||||||| Stash base
+-   ![](https://icons.getbootstrap.com/assets/icons/telephone.svg) [646-812-0164](tel:646-812-0164)
+-   ![](https://icons.getbootstrap.com/assets/icons/envelope-at.svg)[irinahop@gmail.com](irinahop@gmail.com)
+-   ![](https://icons.getbootstrap.com/assets/icons/house.svg) [irinalapteva.github.io](https://irinalapteva.github.io)
+-   ![](https://icons.getbootstrap.com/assets/icons/linkedin.svg) [irinalapteva](https://www.linkedin.com/in/irinalapteva)
+=======
+- ![](https://icons.getbootstrap.com/assets/icons/telephone.svg) [646-812-0164](tel:646-812-0164)
+- ![](https://icons.getbootstrap.com/assets/icons/envelope-at.svg)[irinahop@gmail.com](irinahop@gmail.com)
+- ![](https://icons.getbootstrap.com/assets/icons/house.svg) [irinalapteva.github.io](https://irinalapteva.github.io)
+- ![](https://icons.getbootstrap.com/assets/icons/linkedin.svg) [irinalapteva](https://www.linkedin.com/in/irinalapteva)
+>>>>>>> Stashed changes
+:::
+
+### Mission
+
+My love for arts and my entrepreneurial passion motivate me to continue learning about all aspects of the arts industry -- artistic and business, nonprofit and commercial - while staying focused on being a performing arts project manager, creating and organizing education programs, performances, and tours. I am a former professional ballerina originally from Yakutsk, Siberia with more than 15 years of work experience in performing arts and management.
+
+### Experience
+
+##### [Managing Director]{style="font-weight: 900;"}, [CityDance Conservatory](https://www.citydance.net/sac/leadership-staff/), MD [2018-2024]{.cvdate}
+
+<<<<<<< Updated upstream
+-   Lead and manage the logistical, administrative and artistic support for the CityDance. Implement and oversee day-to-day programs, efficiently and effectively plan and organize education programs, performances, class and rehearsal schedules, monitor casting and communications to the students and parents. Collaborate and work closely with Artistic Director to design and enhance programs
+-   Hiring and managing a team of around 30 teaching artists, 5 staff members plus several other contractor workers, coordinate work of guest artists and partners relations, oversee contract negotiation, create agreements, manage payroll and other payments. Managing work of parent volunteers, interns and streamlining the work of work-study teacher and rehearsal assistants
+-   Planning and managing summer intensives in multiple locations - around 9 different programs each summer with guest artists and partnering dance companies for different levels from 6 - 20 y.o dancers. Successfully lunched a few summer programs as well as optimized summer intensive auditions and streamlined the enrollment process
+-   Manage annuale budget for year round programs in coordination with goals set by ED with the board, create budget for summer intensives, develop and manage production budget, ensuring efficient use of resources, as well as budget for all other artistic projects and events
+-   Oversee all production aspects from pre-production planning to final performances. Production head and Stage Manager for all CityDance performances at Strathmore, Kennedy Center, Atlas Performing Arts Center, and other rented venues. Overseeing rental agreements
+-   Successfully lunched students support services, such us senior support for juniors and seniors to get to colleges and dance companies, support and preparation for veriouse dance competitions and student choreography projects
+-   Lead the organization into a swift transition to online classrooms via MS Teams during the COVID-19 pandemic with livestream performances, that not only kept all the Conservatory students and teachers, but also increased enrollment and brought the Conservatory to top 5% of prestigious Ballet Academies in the US.
+||||||| Stash base
+-   Lead and manage the logistical, administrative and artistic support for the CityDance. Implement and oversee day-to-day programs, efficiently and effectively plan and organize education programs, performances, class and rehearsal schedules, monitor casting and communications to the students and parents. Collaborate and work closely with Artistic Director to design and enhance programs.
+-   Hiring and managing a team of around 30 teaching artists, 5 staff members plus several other contractor workers, coordinate work of guest artists and partners relations, oversee contract negotiation, create agreements, manage payroll and other payments. Managing work of parent volunteers, interns and streamlining the
+-   Planning and managing summer intensives in multiple locations - around 9 different programs each summer with guest artists and partnering dance companies for different levels from 6 - 20 y.o dancers. Successfully lunched a few summer programs as well as optimized summer intensive auditions and streamlined the enrollment process.
+-   Manage annuale budget for year round programs in coordination with goals set by ED with the board, create budget for summer intensives, develop and manage production budget, ensuring efficient use of resources, as well as budget for all other artistic projects and events.
+-   Oversee all production aspects from pre-production planning to final performances. Production head and Stage Manager for all CityDance performances at Strathmore, Kennedy Center, Atlas Performing Arts Center, and other rented venues. Overseeing rental agreements,
+-   Successfully lunched students support services, such us senior support for juniors and seniors to get to colleges and dance companies, support and preparation for verouse dance competitions and student choreography projects.
+-   Lead the oranization into a swift transition to online classrooms via MS Teams during the COVID-19 pandemic with livestream performances, that not only kept all the Conservatory students and teachers, but also increased enrollment and brought the Conservatory to top 5% of prestigious Ballet Academies in the US.
+=======
+- Lead and manage the logistical, administrative and artistic support for the CityDance. Implement and oversee day-to-day programs, efficiently and effectively plan and organize education programs, performances, class and rehearsal schedules, monitor casting and communications to the students and parents. Collaborate and work closely with Artistic Director to design and enhance programs.
+- Hiring and managing a team of around 30 teaching artists, 5 staff members plus several other contractor workers, coordinate work of guest artists and partners relations, oversee contract negotiation, create agreements, manage payroll and other payments. Managing work of parent volunteers, interns and streamlining the
+- Planning and managing summer intensives in multiple locations and around 9 different programs each summer with guest artists and partnering dance companies for different levels from 6 - 20 y.o dancers. Successfully launched several summer programs as well as optimized summer intensive auditions and streamlined the enrollment process.
+- Manage annuale budget for year round programs in coordination with goals set by ED with the board, create budget for summer intensives, develop and manage production budget, ensuring efficient use of resources, as well as budget for all other artistic projects and events.
+- Oversee all production aspects from pre-production planning to final performances. Production head and Stage Manager for all CityDance performances at Strathmore, Kennedy Center, Atlas Performing Arts Center, and other rented venues. Overseeing rental agreements,
+- Successfully lunched students support services, such us senior support for juniors and seniors to get to colleges and dance companies, support and preparation for verouse dance competitions and student choreography projects.
+- Lead the oranization into a swift transition to online classrooms via MS Teams during the COVID-19 pandemic with livestream performances, that not only kept all the Conservatory students and teachers, but also increased enrollment and brought the Conservatory to top 5% of prestigious Ballet Academies in the US.
+>>>>>>> Stashed changes
+
+##### [Director of Education Programs]{style="font-weight: 900;"}, [Brighton Ballet Theater (BBT)](https://www.brightonballet.org/), NY [2010-2018]{.cvdate}
+
+<<<<<<< Updated upstream
+-   Create, develop and manage BBT's outreach and education programs at public schools, senior centers and community centers working with up to 500 people who directly participate in the programs
+-   Coordinate a team of teaching artists, and engage volunteers and parents on the daily basis, while collaborating closely with classroom teachers, school officials, principals, and directors managing the BBT programs
+-   Write grant proposals and reports for more than \$200K, budget for education programs, and process payrolls
+-   Teach dance classes, stage/choreograph dance shows, and be a host and stage manager during the performances
+-   Organize the Nutcracker ballet, the Annual Children's Festival "The World of Dance", other performances and lecture demonstrations at public schools and colleges for thousands of students
+-   Assisted in opening two Staten Island branches at the JCC and the Snug Harbor. Developed the dance programs there and managed the registration process, budget and marketing
+-   Created with dance magnet of I.S. 228 public school an initiative dancing for social causes while performing in theaters, schools and hospitals to raise awareness about cancer among children. I produced and edited a short documentary movie about it. The movie received the Silver Level Honorable Mention in the 2014 [Speak Truth to Power National Film Competition](https://rfkhumanrights.org/our-impact/education/educators/speak-truth-to-power-video-contest/) in partnership with the [American Federation of Teachers](#0) and the [Tribeca Festival](#0)
+-   Organized and taught education program through dance and music for children with [Autism Spectrum Disorder (ASD) with American Autism Association](https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin/)
+||||||| Stash base
+-   Create, develop and manage BBT's outreach and education programs at public schools, senior centers and community centers working with up to 500 people who directly participate in the programs.
+-   Coordinate a team of teaching artists, and engage volunteers and parents on the daily basis, while collaborating closely with classroom teachers, school officials, principals, and directors managing the BBT programs
+-   Write grant proposals and reports for more than \$200K, budget for education programs, and process payrolls
+-   Teach dance classes, stage/choreograph dance shows, and be a host and stage manager during the performances
+-   Organize the Nutcracker ballet, the Annual Children's Festival "The World of Dance", other performances and lecture demonstrations at public schools and colleges for thousands of students
+-   Assisted in opening two Staten Island branches at the JCC and the Snug Harbor. Developed the dance programs there and managed the registration process, budget and marketing
+-   Created with dance magnet of I.S. 228 public school an inisiative dancing for social causes while performing in theaters, schools and hospitals to raise awareness about cancer among children. I produced and edited a short documentary movie about it. The movie received the Silver Level Honorable Mention in the 2014 [Speak Truth to Power National Film Competition](https://rfkhumanrights.org/our-impact/education/educators/speak-truth-to-power-video-contest/) in partnership with the [American Federation of Teachers](#0) and the [Tribeca Festival](#0).
+-   Organized and taught education program through dance and music for children with [Autism Spectrum Disorder (ASD) with American Autism Association](https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin/).
+=======
+- Create, develop and manage BBT's outreach and education programs at public schools, senior centers and community centers working with up to 500 people who directly participate in the programs.
+- Coordinate a team of teaching artists, and engage volunteers and parents on the daily basis, while collaborating closely with classroom teachers, school officials, principals, and directors managing the BBT programs
+- Write grant proposals and reports for more than \$200K, budget for education programs, and process payrolls
+- Teach dance classes, stage/choreograph dance shows, and be a host and stage manager during the performances
+- Organize the Nutcracker ballet, the Annual Children's Festival "The World of Dance", other performances and lecture demonstrations at public schools and colleges for thousands of students
+- Assisted in opening two Staten Island branches at the JCC and the Snug Harbor. Developed the dance programs there and managed the registration process, budget and marketing
+- Created with dance magnet of I.S. 228 public school an inisiative dancing for social causes while performing in theaters, schools and hospitals to raise awareness about cancer among children. I produced and edited a short documentary movie about it. The movie received the Silver Level Honorable Mention in the 2014 [Speak Truth to Power National Film Competition](https://rfkhumanrights.org/our-impact/education/educators/speak-truth-to-power-video-contest/) in partnership with the [American Federation of Teachers](#0) and the [Tribeca Festival](#0).
+- Organized and taught education program through dance and music for children with [Autism Spectrum Disorder (ASD) with American Autism Association](https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin/).
+>>>>>>> Stashed changes
+
+##### [**Board Member**]{style="font-weight: 900;"}, Sakha TeTeam - [Sakha American Society](https://www.sakhaopenworld.org/) [2022-]{.cvdate}present
+
+- Organized Sakha Festival "Yhyakh" in NYC park for 250 people with music and dance performances, exhibitions and sport competitions
+
+##### [Consultant]{style="font-weight: 900;"}, Academy of Dance and Creative Arts [2017]{.cvdate}
+
+<<<<<<< Updated upstream
+-   Designed a new development strategy
+-   Created new outreach and education programs that allowed to recieve new grants
+-   Assisted with the expansion of local community connections that brought new sponsors
+-   Organized the marketing campaign for the premiere of ballet Cinderella
+||||||| Stash base
+-   Designed a new development strategy
+-   Created new outreach and education programs
+-   Assisted with the expansion of local community connections that brought new sponsors.
+-   Organized the marketing campaign for the premiere of ballet Cinderella.
+=======
+- Designed a new development strategy
+- Created new outreach and education programs
+- Assisted with the expansion of local community connections that brought new sponsors.
+- Organized the marketing campaign for the premiere of ballet Cinderella.
+>>>>>>> Stashed changes
+
+##### [Studio Manager, Co-Owner]{style="font-weight: 900;"}, [Flash Dancing and Ballet School](https://flash-dancing.ru/), Moscow, Russia [2007-2010]{.cvdate}
+
+<<<<<<< Updated upstream
+-   Supported opening of a dance studio while creating and teaching dance programs for adults and children, administrating and coordinating the classes, creating budget and collecting admission fees.
+-   With the team brought a number of subscription clients from 10 to more than 200
+||||||| Stash base
+-   Assisted in opening two Staten Island branches at the JCC and the Snug Harbor. Developed the dance programs there and managed the registration process, budget and marketing
+=======
+- Assisted in opening two Staten Island branches at the JCC and the Snug Harbor. Developed the dance programs there and managed the registration process, budget and marketing
+>>>>>>> Stashed changes
+
+##### [Ballet Dancer]{style="font-weight: 900;"}, [Yakut State Theatre of Opera and Ballet](https://sakha-opera.ru/repertuar/), Yakutsk, Russia [2005-2006]{.cvdate}
+
+<<<<<<< Updated upstream
+-   Performed in ballets and operas including leading roles in full-length operas and ballets: Mercedes in Don Quixote, Raymonda in Raymonda, the Lilac Fairy in The Sleeping Beauty and Black Swans in Swan Lake.
+||||||| Stash base
+-   Performed in ballets and operas including leading roles in full-length operas and ballets, such as Don Quixote, Raymonda, The Sleeping Beauty, Swan Lake, Prince Igor and other.
+=======
+- Performed in ballets and operas including leading roles in full-length operas and ballets, such as Don Quixote, Raymonda, The Sleeping Beauty, Swan Lake, Prince Igor and other.
+>>>>>>> Stashed changes
+
+##### [Development Intern]{style="font-weight: 900;"}, [American Ballet Theater](https://www.abt.org/), NY [2016]{.cvdate}
+
+##### [Graduate Assistant]{style="font-weight: 900;"}, [New York Institute of Technology](https://www.nyit.edu/news/features/internship_spotlight_meet_irina_lapteva), NY [2016]{.cvdate}
+
+##### [International Programs Intern]{style="font-weight: 900;"}, [Joffrey Ballet School (JBS)](https://www.joffreyballetschool.com/), NY [2016]{.cvdate}
+
+### Education
+
+- [MA]{style="font-weight: 900;"}, Arts and Entertainment Industries Leadership, [New York Institute of Technology](https://www.nyit.edu/) [2017]{.cvdate}
+- [MA]{style="font-weight: 900;"}, Project Management, [Synergy University](https://synergy.university/) [2011]{.cvdate}
+- [BA]{style="font-weight: 900;"}, Operational Management, [Synergy University](https://synergy.university/) [2011]{.cvdate}
+- [BA]{style="font-weight: 900;"}, Ballet and Performing Arts, [Poselskaya Yakut Choreographic College](https://sakha-ballet.ru/en/) [2011]{.cvdate}
