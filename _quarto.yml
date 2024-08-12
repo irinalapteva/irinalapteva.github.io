@@ -15,7 +15,7 @@ website:
     title: Irina Lapteva
     logo: images/deidek.svg
     logo-alt: "Decagon made up of 100 triangles"
-    right:
+    left:
       - icon: house-door
         text: Home
         href: index.qmd
@@ -25,6 +25,7 @@ website:
       - icon: file-earmark-person
         text: CV/Résumé
         href: cv/index.qmd
+    right:
       - icon: linkedin
         text: LinkedIn
         href: https://www.linkedin.com/in/irinalapteva
