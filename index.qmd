@@ -1,5 +1,5 @@
 ---
-image: images/irina.png
+image: images/irina.jpeg
 toc: false
 format:
   html:
@@ -9,7 +9,6 @@ format:
     back-to-top-navigation: false
 about:
   template: solana
-  image-shape: round
   image-width: 16em
 ---
 
