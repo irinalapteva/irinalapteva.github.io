@@ -9,7 +9,7 @@ format:
     back-to-top-navigation: false
 about:
   template: trestles
-  image-width: 26em
+  image-width: 28em
   image-shape: round
   image-title: Photo by Arken Avan
 ---
