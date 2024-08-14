@@ -30,7 +30,7 @@ enduring success of organizations and artistic excellence.
 
 ### Experience
 
-###### **Managing Director**, [CityDance Conservatory](https://www.citydance.net/sac/leadership-staff) <span class="cvdate">2018-2024</span>
+###### **Managing Director**, [CityDance Conservatory](https://www.citydance.net) <span class="cvdate">2018-2024</span>
 
 - Led and managed logistical, administrative work, and day-to-day
   operations.
@@ -72,7 +72,7 @@ enduring success of organizations and artistic excellence.
   also increased enrollment and after the pandemic brought the
   Conservatory to top 5% of prestigious Ballet Academies in the US.
 
-###### **Director of Education Programs**, [Brighton Ballet Theater (BBT)](https://www.brightonballet.org) <span class="cvdate">2010-2018</span>
+###### **Director of Education Programs**, [Brighton Ballet Theater (BBT)](https://www.bbtballet.org) <span class="cvdate">2010-2018</span>
 
 - Created, developed and managed outreach and education programs at
   public schools, senior centers, and community centers, working with up
