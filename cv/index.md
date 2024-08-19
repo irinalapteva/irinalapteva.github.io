@@ -39,10 +39,10 @@ enduring success of organizations and artistic excellence.
   schedules, and cast and support repertory.
 - Efficiently and effectively planned and organized year-round education
   programs and managed communications with the students and parents.
-- Managed and supported hiring a team of around 30 teaching artists, 5
-  full-time staff members, several contractor workers, guest artists,
-  partners, parent volunteers, interns, work-study teachers, and
-  rehearsal assistants.
+- Managed and supported hiring a team of around 30 faculty teaching
+  artists, 5 full-time staff members, several contractor workers, guest
+  artists, partners, parent volunteers, interns, work-study teachers,
+  and rehearsal assistants.
 - Oversaw contract negotiations, created agreements, and managed payroll
   and other payments for all classes, rehearsals, workshops, events,
   intensives, and performances.
@@ -62,6 +62,10 @@ enduring success of organizations and artistic excellence.
 - Served as Production Head and Stage Manager for all CityDance
   performances at Strathmore, Kennedy Center, Atlas Performing Arts
   Center, and other venues.
+- Worked directly with marketing team to review marketing materials and
+  photos, organize photo shoots and video recordings, support
+  implementation of key marketing campaigns, and facilitate
+  cross-functional communication among project stakeholders.
 - Successfully launched students support services, such us support for
   juniors and seniors to get into colleges and dance companies,
   supported auditions, dance competitions, and student choreography
