@@ -84,16 +84,16 @@ enduring success of organizations and artistic excellence.
 - Coordinated a team of teaching artists, engaged volunteers and parents
   on the daily basis, while collaborating closely with classroom
   teachers, school officials, principals, and directors.
-- Wrote grant proposals and reports for more than $200K and raised funds
-  for education programs.
+- Wrote grant proposals and reports for \>$200K and raised funds for
+  education programs.
 - Taught dance classes, staged and choreographed up to one-hour dance
   shows, and acted as a host and stage manager during the performances.
-- Organized the Nutcracker ballet, the Annual Children’s Festival “The
-  World of Dance”, and other performances and lecture demonstrations at
-  public schools and colleges for thousands of students.
-- Assisted in opening two Staten Island branches at the Jewish Cultural
-  Center and the Snug Harbor. Developed the dance programs there and
-  managed the registration process, budget and marketing.
+- Organized performances, lecture demonstrations, and other events, such
+  as the Nutcracker ballet and the Annual Children’s Festival “The World
+  of Dance”, at public schools and colleges for thousands of students.
+- Assisted in opening two new branches (at the State Island Jewish
+  Cultural Center and Snug Harbor) and developed the dance programs
+  there, managing the registration process, budget, and marketing.
 - Created an initiative that promoted dancing for social causes in
   collaboration with the dance magnet of Intermediate School 228 public
   school while performing in theaters, schools, and hospitals to raise
@@ -103,7 +103,7 @@ enduring success of organizations and artistic excellence.
   Film
   Competition](https://rfkhumanrights.org/our-impact/education/educators/speak-truth-to-power-video-contest)
   in partnership with the [American Federation of
-  Teachers](https://www.aft.org) and the [Tribeca
+  Teachers](https://www.aft.org) and the [Tribeca
   Festival](https://tribecafilm.com).
 - Organized and taught dance and music education programs for children
   with Autism Spectrum Disorder (ASD) in partnership with [American
