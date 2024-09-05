@@ -108,30 +108,30 @@ enduring success of organizations and artistic excellence.
 - Organized and taught dance and music education programs for children
   with Autism Spectrum Disorder (ASD) in partnership with [American
   Autism
-  Association](https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin)
+  Association](https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin).
 
 ###### **Board Member**, [Sakha American Diaspora](https://www.sakhaopenworld.org) <span class="cvdate">2022-present</span>
 
 - Organized Sakha Summer Festival in NYC park for 250 people with music
-  and dance performances, exhibitions and sport competitions
+  and dance performances, exhibitions and sport competitions.
 
 ###### **Consultant**, Academy of Dance and Creative Arts <span class="cvdate">2017</span>
 
-- Designed a new development strategy
+- Designed a new development strategy.
 - Created new outreach and education programs that resulted in new
-  grants
+  grants.
 - Assisted with the expansion of local community connections that
-  brought new sponsors
+  brought new sponsors.
 - Organized the marketing campaign for the premiere of the ballet
-  *Cinderella*
+  *Cinderella.*
 
 ###### **Studio Manager, Co-Owner**, [Flash Dancing and Ballet School](https://flash-dancing.ru) <span class="cvdate">2007-2010</span>
 
 - Supported the opening of a new dance studio while designing and
-  teaching dance programs for adults and children
+  teaching dance programs for adults and children.
 - Administrated and coordinated dance classes, created budgets, and
-  collected admission fees
-- Increased the number of subscription clients from 10 to more than 200
+  collected admission fees.
+- Increased the number of subscription clients from 10 to more than 200.
 
 ###### **Ballet Dancer**, [Yakut State Theatre of Opera and Ballet](https://sakha-opera.ru/repertuar) <span class="cvdate">2005-2006</span>
 
