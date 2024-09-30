@@ -55,7 +55,7 @@ enduring success of organizations and artistic excellence.
   different programs each summer with guest artists and partnering dance
   companies for different levels of dancers, ages 6 to 20.
 - Successfully launched a few new summer programs with the Artistic
-  Director and professional natianal and international dance companies
+  Director and professional national and international dance companies
   as well as optimized summer intensive auditions and streamlined the
   enrollment process.
 - Oversaw all production aspects from pre-production planning to the
@@ -63,7 +63,7 @@ enduring success of organizations and artistic excellence.
 - Served as Production Head and Stage Manager for all CityDance
   performances and Galas at Strathmore, Kennedy Center, Atlas Performing
   Arts Center, and other venues for up to 2K people in the audience for
-  each permformance.
+  each performance.
 - Worked directly with marketing team to review marketing materials and
   photos, organize photo shoots and video recordings, support
   implementation of key marketing campaigns, and facilitate
@@ -114,15 +114,15 @@ enduring success of organizations and artistic excellence.
 
 ###### **Board Member**, [Sakha American Diaspora](https://www.sakhaopenworld.org) <span class="cvdate">2022-present</span>
 
-- Advance the mission of the Sakha American Diaspora by establishing a
-  network of indigenous peoples from the Sakha Republic, offering
-  support for the preservation of languages, traditions, and
-  spirituality, and promoting these unique cultures through educational
-  and cultural programs in the U.S. and beyond.
+- Advance the mission by establishing a network of indigenous peoples
+  from the Sakha Republic, offering support for the preservation of
+  languages, traditions, and spirituality, and promoting these unique
+  cultures through educational and cultural programs in the US and
+  beyond.
 - Contribute as a team member in organizing the annual Sakha Summer
-  Festival in a New York City park, participating in all aspects from
-  planning to execution, and attracting approximately 250 attendees with
-  music and dance performances, exhibitions, and sports competitions.
+  Festival in a New York City park and attracting approximately 250
+  attendees with music and dance performances, exhibitions, and sports
+  competitions.
 
 ###### **Consultant**, Academy of Dance and Creative Arts <span class="cvdate">2017</span>
 
