@@ -93,9 +93,9 @@ enduring success of organizations and artistic excellence.
 - Organized performances, lecture demonstrations, and other events, such
   as the Nutcracker ballet and the Annual Children’s Festival “The World
   of Dance”, at public schools and colleges for thousands of students.
-- Assisted in opening two new branches (at the State Island Jewish
-  Cultural Center and Snug Harbor) and developed the dance programs
-  there, managing the registration process, budget, and marketing.
+- Facilitated the opening of two new branches at the Staten Island
+  Jewish Cultural Center and Snug Harbor, and developed dance programs
+  and managed registration, budgeting, and marketing efforts.
 - Created an initiative that promoted dancing for social causes in
   collaboration with the dance magnet of Intermediate School 228 public
   school while performing in theaters, schools, and hospitals to raise
@@ -117,8 +117,7 @@ enduring success of organizations and artistic excellence.
 - Advance the mission by establishing a network of indigenous peoples
   from the Sakha Republic, offering support for the preservation of
   languages, traditions, and spirituality, and promoting these unique
-  cultures through educational and cultural programs in the US and
-  beyond.
+  cultures through educational and cultural programs in the US.
 - Contribute as a team member in organizing the annual Sakha Summer
   Festival in a New York City park and attracting approximately 250
   attendees with music and dance performances, exhibitions, and sports
@@ -137,7 +136,7 @@ enduring success of organizations and artistic excellence.
 ###### **Studio Manager, Co-Owner**, [Flash Dancing and Ballet School](https://flash-dancing.ru) <span class="cvdate">2007-2010</span>
 
 - Supported the opening of a new dance studio while designing and
-  teaching dance programs for adults and children.
+  teaching dance programs.
 - Administrated and coordinated dance classes, created budgets, and
   collected admission fees.
 
