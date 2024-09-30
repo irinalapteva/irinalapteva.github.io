@@ -64,6 +64,10 @@ enduring success of organizations and artistic excellence.
   performances and Galas at Strathmore, Kennedy Center, Atlas Performing
   Arts Center, and other venues for up to 2K people in the audience for
   each performance.
+- Supported fundraising initiatives and coordinated related events,
+  including the planning and execution of the annual Gala performance
+  and fundraising efforts in collaboration with the Artistic Director,
+  Executive Director, and board members.
 - Worked directly with marketing team to review marketing materials and
   photos, organize photo shoots and video recordings, support
   implementation of key marketing campaigns, and facilitate
