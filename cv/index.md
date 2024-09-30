@@ -119,7 +119,6 @@ enduring success of organizations and artistic excellence.
   support for the preservation of languages, traditions, and
   spirituality, and promoting these unique cultures through educational
   and cultural programs in the U.S. and beyond.
-
 - Contribute as a team member in organizing the annual Sakha Summer
   Festival in a New York City park, participating in all aspects from
   planning to execution, and attracting approximately 250 attendees with
