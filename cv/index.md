@@ -81,8 +81,8 @@ enduring success of organizations and artistic excellence.
 ###### **Director of Education Programs**, [Brighton Ballet Theater (BBT)](https://www.bbtballet.org) <span class="cvdate">2010-2018</span>
 
 - Created, developed and managed outreach and education programs at
-  public schools, senior centers, and community centers, working with up
-  to 500 people who directly participated in the programs.
+  public schools, senior and community centers, working with up to 500
+  people who directly participated in the programs.
 - Coordinated a team of teaching artists, engaged volunteers and parents
   on the daily basis, while collaborating closely with classroom
   teachers, school officials, principals, and directors.
@@ -95,7 +95,7 @@ enduring success of organizations and artistic excellence.
   of Dance”, at public schools and colleges for thousands of students.
 - Facilitated the opening of two new branches at the Staten Island
   Jewish Cultural Center and Snug Harbor, and developed dance programs
-  and managed registration, budgeting, and marketing efforts.
+  and managed registration and marketing.
 - Created an initiative that promoted dancing for social causes in
   collaboration with the dance magnet of Intermediate School 228 public
   school while performing in theaters, schools, and hospitals to raise
@@ -143,8 +143,8 @@ enduring success of organizations and artistic excellence.
 ###### **Ballet Dancer**, [Yakut State Theatre of Opera and Ballet](https://sakha-opera.ru/repertuar) <span class="cvdate">2005-2006</span>
 
 - Performed in ballets and operas including leading roles in full-length
-  operas and ballets: Mercedes in Don Quixote, Raymonda in Raymonda, the
-  Lilac Fairy in The Sleeping Beauty, and Black Swans in Swan Lake.
+  operas and ballets: Mercedes in Don Quixote, Raymonda in Raymonda, The
+  Sleeping Beauty and Swan Lake.
 
 ### Education
 
