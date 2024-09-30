@@ -142,9 +142,9 @@ enduring success of organizations and artistic excellence.
 
 ###### **Ballet Dancer**, [Yakut State Theatre of Opera and Ballet](https://sakha-opera.ru/repertuar) <span class="cvdate">2005-2006</span>
 
-- Performed in ballets and operas including leading roles in full-length
-  operas and ballets: Mercedes in Don Quixote, Raymonda in Raymonda,
-  soloist in Sleeping Beauty and Swan Lake.
+- Performed in ballets and operas, including leading roles as Mercedes
+  in *Don Quixote* and Raymonda in *Raymonda*, as well as soloist roles
+  in *Sleeping Beauty* and *Swan Lake*.
 
 ### Education
 
