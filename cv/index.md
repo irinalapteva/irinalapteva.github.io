@@ -80,9 +80,9 @@ enduring success of organizations and artistic excellence.
 
 ###### **Director of Education Programs**, [Brighton Ballet Theater (BBT)](https://www.bbtballet.org) <span class="cvdate">2010-2018</span>
 
-- Created, developed and managed outreach and education programs at
-  public schools, senior and community centers, working with up to 500
-  people who directly participated in the programs.
+- Designed, developed, and managed outreach and education programs at
+  public schools, senior centers, and community centers, engaging
+  annualy up to 500 participants directly.
 - Coordinated a team of teaching artists, engaged volunteers and parents
   on the daily basis, while collaborating closely with classroom
   teachers, school officials, principals, and directors.
@@ -143,8 +143,8 @@ enduring success of organizations and artistic excellence.
 ###### **Ballet Dancer**, [Yakut State Theatre of Opera and Ballet](https://sakha-opera.ru/repertuar) <span class="cvdate">2005-2006</span>
 
 - Performed in ballets and operas including leading roles in full-length
-  operas and ballets: Mercedes in Don Quixote, Raymonda in Raymonda, The
-  Sleeping Beauty and Swan Lake.
+  operas and ballets: Mercedes in Don Quixote, Raymonda in Raymonda,
+  soloist in Sleeping Beauty and Swan Lake.
 
 ### Education
 
