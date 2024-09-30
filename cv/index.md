@@ -53,7 +53,7 @@ enduring success of organizations and artistic excellence.
   the budget for all other artistic projects and events.
 - Planned and managed summer intensives in multiple locations – around 9
   different programs each summer with guest artists and partnering dance
-  companies for different levels of dancers, ages 6 to 20.
+  companies for different levels of dancers, ages 6 and up.
 - Successfully launched a few new summer programs with the Artistic
   Director and professional national and international dance companies
   as well as optimized summer intensive auditions and streamlined the

@@ -51,16 +51,30 @@ p, li {
     float: right;
   }
   h6 {
-  margin-bottom: -10px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+  section#experience > section:first-child > h6:first-child {
+  margin-top: 0px;
 }
   ul {
   padding-left: 18px;
 }
+  h3 {
+  font-size: 1.1em;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
   h1.title {
-  margin-top: -18px;
+  margin-top: -20px;
+  font-size: 28px;
   }
   p, li {
-    line-height: 1.1;
+    line-height: 1.12;
+  }
+  p, ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
 }
 
