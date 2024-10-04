@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://irinalapteva.github.io/cv/cover.html</loc>
-    <lastmod>2024-09-06T05:33:09.573Z</lastmod>
-  </url>
-  <url>
-    <loc>https://irinalapteva.github.io/cv/index.html</loc>
-    <lastmod>2024-09-30T03:29:24.949Z</lastmod>
+    <loc>https://irinalapteva.github.io/index.html</loc>
+    <lastmod>2024-08-12T21:57:10.897Z</lastmod>
   </url>
   <url>
     <loc>https://irinalapteva.github.io/about/index.html</loc>
     <lastmod>2024-09-05T20:15:07.417Z</lastmod>
   </url>
   <url>
-    <loc>https://irinalapteva.github.io/index.html</loc>
-    <lastmod>2024-08-12T21:57:10.897Z</lastmod>
-  </url>
-  <url>
-    <loc>https://irinalapteva.github.io/cv/refs.html</loc>
-    <lastmod>2024-09-06T05:18:36.547Z</lastmod>
+    <loc>https://irinalapteva.github.io/cv/index.html</loc>
+    <lastmod>2024-09-30T03:29:24.949Z</lastmod>
   </url>
 </urlset>
