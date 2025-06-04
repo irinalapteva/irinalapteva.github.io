@@ -26,54 +26,41 @@ performing arts organizations, I am uniquely suited to innovate and
 enhance the arts and education landscape. Driven by a deep passion and a
 strong entrepreneurial spirit, I aim to create transformative
 experiences that resonate with diverse communities and contribute to the
-enduring success of organizations and artistic excellence.
+enduring success of the arts.
 
 ### Experience
 
-###### **Executive Director**, [Visceral Dance Chicago](https://www.visceraldance.com) <span class="cvdate">2025-Present</span>
+###### **Managing Director**, [CityDance Conservatory](https://www.citydance.net/sac/leadership-staff) <span class="cvdate">2018-2024</span>
 
-###### **Managing Director**, [CityDance Conservatory](https://www.citydance.net) <span class="cvdate">2018-2024</span>
-
-- Led and managed logistical, administrative work, and day-to-day
-  operations.
+- Led and managed logistical and administrative work.
+- Implemented and oversaw day-to-day programs, efficiently and
+  effectively planned and organized education programs and performances
+  and managed communications with the students and parents.
+- Oversaw contract negotiations, created agreements, and managed
+  finances including payroll and other payments.
 - Collaborated and worked closely with the Artistic Director to design
   and improve programs, schedule and monitor class and rehearsal
-  schedules, and cast and support repertory.
-- Efficiently and effectively planned and organized year-round education
-  programs and managed communications with the students and parents.
-- Managed and supported hiring a team of around 30 faculty teaching
-  artists, 5 full-time staff members, several contractor workers, guest
-  artists, partners, parent volunteers, interns, work-study teachers,
-  and rehearsal assistants.
-- Oversaw contract negotiations, created agreements, and managed payroll
-  and other payments for all classes, rehearsals, workshops, events,
-  intensives, and performances.
-- Managed the annual budget of $2M for year-round programs in
-  coordination with the goals set by CEO and Artistic Director with the
-  Board, created the budget for summer intensives, developed and managed
-  the production budget to ensure efficient use of resources, as well as
-  the budget for all other artistic projects and events.
+  schedules, and cast and support performers.
+- Hired and managed a team of around 30 teaching artists, 5 full-time
+  staff members, several contractor workers, guest artists, partners,
+  parent volunteers, interns, work-study teachers, and rehearsal
+  assistants.
 - Planned and managed summer intensives in multiple locations – around 9
   different programs each summer with guest artists and partnering dance
-  companies for different levels of dancers, ages 6 and up.
-- Successfully launched a few new summer programs with the Artistic
-  Director and professional national and international dance companies
+  companies for different levels of dancers, ages 6 to 20.
+- Successfully launched a few summer programs with the Artistic Director
   as well as optimized summer intensive auditions and streamlined the
   enrollment process.
+- Managed the annual budget for year-round programs in coordination with
+  the goals set by CEO with the Board, created the budget for summer
+  intensives, developed and managed the production budget to ensure
+  efficient use of resources, as well as the budget for all other
+  artistic projects and events
 - Oversaw all production aspects from pre-production planning to the
   final performances.
 - Served as Production Head and Stage Manager for all CityDance
-  performances and Galas at Strathmore, Kennedy Center, Atlas Performing
-  Arts Center, and other venues for up to 2K people in the audience for
-  each performance.
-- Supported fundraising initiatives and coordinated related events,
-  including the planning and execution of the annual Gala performance
-  and fundraising efforts in collaboration with the Artistic Director,
-  Executive Director, and board members.
-- Worked directly with marketing team to review marketing materials and
-  photos, organize photo shoots and video recordings, support
-  implementation of key marketing campaigns, and facilitate
-  cross-functional communication among project stakeholders.
+  performances at Strathmore, Kennedy Center, Atlas Performing Arts
+  Center, and other venues.
 - Successfully launched students support services, such us support for
   juniors and seniors to get into colleges and dance companies,
   supported auditions, dance competitions, and student choreography
@@ -84,24 +71,24 @@ enduring success of organizations and artistic excellence.
   also increased enrollment and after the pandemic brought the
   Conservatory to top 5% of prestigious Ballet Academies in the US.
 
-###### **Director of Education Programs**, [Brighton Ballet Theater (BBT)](https://www.bbtballet.org) <span class="cvdate">2010-2018</span>
+###### **Director of Education Programs**, [Brighton Ballet Theater (BBT)](https://www.brightonballet.org) <span class="cvdate">2010-2018</span>
 
-- Designed, developed, and managed outreach and education programs at
-  public schools, senior centers, and community centers, engaging
-  annualy up to 500 participants directly.
+- Created, developed and managed outreach and education programs at
+  public schools, senior centers, and community centers, working with up
+  to 500 people who directly participated in the programs.
 - Coordinated a team of teaching artists, engaged volunteers and parents
   on the daily basis, while collaborating closely with classroom
   teachers, school officials, principals, and directors.
-- Wrote grant proposals and reports for \>$200K and raised funds for
-  education programs.
-- Taught dance classes, staged and choreographed up to one-hour dance
-  shows, and acted as a host and stage manager during the performances.
-- Organized performances, lecture demonstrations, and other events, such
-  as the Nutcracker ballet and the Annual Children’s Festival “The World
-  of Dance”, at public schools and colleges for thousands of students.
-- Facilitated the opening of two new branches at the Staten Island
-  Jewish Cultural Center and Snug Harbor, and developed dance programs
-  and managed registration and marketing.
+- Wrote grant proposals and reports for more than $200K, managed budgets
+  for education programs, and processed payrolls.
+- Taught dance classes, staged and choreographed dance shows, and acted
+  as a host and stage manager during the performances.
+- Organized the Nutcracker ballet, the Annual Children’s Festival “The
+  World of Dance”, and other performances and lecture demonstrations at
+  public schools and colleges for thousands of students.
+- Assisted in opening two Staten Island branches at the Jewish Cultural
+  Center and the Snug Harbor. Developed the dance programs there and
+  managed the registration process, budget and marketing.
 - Created an initiative that promoted dancing for social causes in
   collaboration with the dance magnet of Intermediate School 228 public
   school while performing in theaters, schools, and hospitals to raise
@@ -111,46 +98,41 @@ enduring success of organizations and artistic excellence.
   Film
   Competition](https://rfkhumanrights.org/our-impact/education/educators/speak-truth-to-power-video-contest)
   in partnership with the [American Federation of
-  Teachers](https://www.aft.org) and the [Tribeca
+  Teachers](https://www.aft.org) and the [Tribeca
   Festival](https://tribecafilm.com).
 - Organized and taught dance and music education programs for children
   with Autism Spectrum Disorder (ASD) in partnership with [American
   Autism
-  Association](https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin).
+  Association](https://www.nydailynews.com/2012/10/17/autistic-kids-learn-through-dance-thanks-to-brighton-ballet-theaters-founder-irina-roizin)
 
-###### **Board Member**, [Sakha American Diaspora](https://www.sakhaopenworld.org) <span class="cvdate">2022-present</span>
+###### **Board Member**, [Sakha American Society](https://www.sakhaopenworld.org) <span class="cvdate">2022-present</span>
 
-- Advance the mission by establishing a network of indigenous peoples
-  from the Sakha Republic, offering support for the preservation of
-  languages, traditions, and spirituality, and promoting these unique
-  cultures through educational and cultural programs in the US.
-- Contribute as a team member in organizing the annual Sakha Summer
-  Festival in a New York City park and attracting approximately 250
-  attendees with music and dance performances, exhibitions, and sports
-  competitions.
+- Organized Sakha Summer Festival in NYC park for 250 people with music
+  and dance performances, exhibitions and sport competitions
 
 ###### **Consultant**, Academy of Dance and Creative Arts <span class="cvdate">2017</span>
 
-- Designed a new development strategy.
+- Designed a new development strategy
 - Created new outreach and education programs that resulted in new
-  grants.
+  grants
 - Assisted with the expansion of local community connections that
-  brought new sponsors.
+  brought new sponsors
 - Organized the marketing campaign for the premiere of the ballet
-  *Cinderella.*
+  *Cinderella*
 
 ###### **Studio Manager, Co-Owner**, [Flash Dancing and Ballet School](https://flash-dancing.ru) <span class="cvdate">2007-2010</span>
 
 - Supported the opening of a new dance studio while designing and
-  teaching dance programs.
+  teaching dance programs for adults and children
 - Administrated and coordinated dance classes, created budgets, and
-  collected admission fees.
+  collected admission fees
+- Increased the number of subscription clients from 10 to more than 200
 
 ###### **Ballet Dancer**, [Yakut State Theatre of Opera and Ballet](https://sakha-opera.ru/repertuar) <span class="cvdate">2005-2006</span>
 
-- Performed in ballets and operas, including leading roles as Mercedes
-  in *Don Quixote* and Raymonda in *Raymonda*, as well as soloist roles
-  in *Sleeping Beauty* and *Swan Lake*.
+- Performed in ballets and operas including leading roles in full-length
+  operas and ballets: Mercedes in Don Quixote, Raymonda in Raymonda, the
+  Lilac Fairy in The Sleeping Beauty, and Black Swans in Swan Lake.
 
 ### Education
 
