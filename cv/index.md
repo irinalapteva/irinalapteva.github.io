@@ -19,21 +19,73 @@
 ### Mission
 
 I strongly believe in power of the arts to bring people together. In
-particular, the performing arts have always been at the core of my life
-and a key part of my identity. As an indigenous former ballerina with 2
-Master Degrees and more than 15 years of work experience in nonprofit
-performing arts organizations, I am uniquely suited to innovate and
-enhance the arts and education landscape. Driven by a deep passion and a
-strong entrepreneurial spirit, I aim to create transformative
-experiences that resonate with diverse communities and contribute to the
-enduring success of organizations and artistic excellence.
+particular, the performing arts and education have always been at the
+core of my life and a key part of my identity. With nearly 20 years of
+experience as professional ballerina, educator, choreographer, and
+nonprofit leader—including two master’s degrees, indigenous background
+and international credentials—I bring a unique combination of artistic
+excellence, operational expertise, and a lifelong commitment to
+developing young dancers. Driven by a deep passion and a strong
+entrepreneurial spirit, I aim to create transformative experiences that
+resonate with diverse communities and contribute to the enduring success
+of organizations and artistic excellence.
 
 ### Experience
 
-###### **Executive Director**, [Visceral Dance Chicago](https://www.visceraldance.com) <span class="cvdate">2025-Present</span>
+###### **Director of the Arts**, [Community College of Baltimore County](https://www.ccbcmd.edu) <span class="cvdate">2025-Present</span>
+
+###### **Executive Director**, [Visceral Dance](https://www.visceraldance.com) <span class="cvdate">2025</span>
+
+- Spearheaded long-range strategic planning and programming for the
+  2025–26 season.
+- Developed organizational budget aligning programmatic, artistic, and
+  financial goals.
+- Recruited, contracted, and onboarded new company dancers, apprentices,
+  faculty, and interns.
+- Improved governance by onboarding a new board member, creating
+  committees, and updating handbooks and internal policies.
+- Directed all marketing efforts, including strategy, content creation,
+  and oversight of three marketing interns.
+- Created digital and print collateral, press releases, newsletters,
+  e-blasts, sponsors, and donor materials.
+- Coordinated cross-promotional marketing, updated website content,
+  oversaw video creation for all programs, generated ideas for content
+  creation, sent marketing information for all festivals, and followed
+  contract agreements regarding marketing approvals.
+- Oversaw a Visceral Dance company of 10 full-time professional dancers,
+  a robust trainee program, and a wide range of education and outreach
+  programs.
+- Designed and launched new donor tiers, annual giving programs, and the
+  Visceral Inner Circle major donor initiative, increasing donor
+  retention and high-value cultivation.
+- Negotiated sponsorship agreements, community partners, public school,
+  theaters and other partners to increase organizational visibility and
+  sustainable revenue.
+- Managed all outreach programs and connections with more than 200 local
+  public schools.
+- Produced major performances at venues including MCA Chicago and Ann
+  Barzel Theater.
+- Curated donor events such as open rehearsals, previews, receptions,
+  and a benefit performance.
+- Solely oversaw all financial systems: QuickBooks, banking, payroll,
+  and fiscal compliance, including successful FY2024 audit and 990
+  filing with the support of hired accounting firm.
+- Successfully integrated Studio Pro, MindBody, Wix, Pages, Little Green
+  Light, Canva, CupCut, and DocuSign into operations, donor management,
+  marketing, enrollment, and internal communications.
 
 ###### **Managing Director**, [CityDance Conservatory](https://www.citydance.net) <span class="cvdate">2018-2024</span>
 
+- Led curriculum development and scheduling across all levels of the
+  Conservatory, working closely with the Artistic Director to maintain
+  excellence in classical ballet and contemporary dance.
+- Supervised and mentored a diverse artistic team of 30+ faculty and
+  staff, including 5 full-time staff members, choreographers, rehearsal
+  directors, accompanists, guest artists, several contractor workers,
+  partners, parent volunteers, interns, and work study rehearsal
+  assistants.
+- Oversaw casting and repertory development, coached dancers,
+  choreographed new works, and restaged repertory for major productions.
 - Led and managed logistical, administrative work, and day-to-day
   operations.
 - Collaborated and worked closely with the Artistic Director to design
@@ -88,7 +140,7 @@ enduring success of organizations and artistic excellence.
 
 - Designed, developed, and managed outreach and education programs at
   public schools, senior centers, and community centers, engaging
-  annualy up to 500 participants directly.
+  annually up to 500 participants directly.
 - Coordinated a team of teaching artists, engaged volunteers and parents
   on the daily basis, while collaborating closely with classroom
   teachers, school officials, principals, and directors.
@@ -120,11 +172,11 @@ enduring success of organizations and artistic excellence.
 
 ###### **Board Member**, [Sakha American Diaspora](https://www.sakhaopenworld.org) <span class="cvdate">2022-present</span>
 
-- Advance the mission by establishing a network of indigenous peoples
+- Advanced the mission by establishing a network of indigenous peoples
   from the Sakha Republic, offering support for the preservation of
   languages, traditions, and spirituality, and promoting these unique
   cultures through educational and cultural programs in the US.
-- Contribute as a team member in organizing the annual Sakha Summer
+- Contributed as a team member in organizing the annual Sakha Summer
   Festival in a New York City park and attracting approximately 250
   attendees with music and dance performances, exhibitions, and sports
   competitions.
