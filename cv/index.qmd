@@ -27,11 +27,14 @@ format:
 
 ### Mission
 
-fI strongly believe in power of the arts to bring people together. In particular, the performing arts and education have always been at the core of my life and a key part of my identity. With nearly 20 years of experience as professional ballerina, educator, choreographer, and nonprofit leader—including two master’s degrees, indigenous background and international credentials—I bring a unique combination of artistic excellence, operational expertise, and a lifelong commitment to developing young dancers. Driven by a deep passion and a strong entrepreneurial spirit, I aim to create transformative experiences that resonate with diverse communities and contribute to the enduring success of organizations and artistic excellence.
+I strongly believe in power of the arts to bring people together. In particular, the performing arts and education have always been at the core of my life and a key part of my identity. With nearly 20 years of experience as professional ballerina, educator, choreographer, and nonprofit leader—including two master’s degrees, indigenous background and international credentials—I bring a unique combination of artistic excellence, operational expertise, and a lifelong commitment to developing young dancers. Driven by a deep passion and a strong entrepreneurial spirit, I aim to create transformative experiences that resonate with diverse communities and contribute to the enduring success of organizations and artistic excellence.
 
 ### Experience
 
-###### **Executive Director**, [Visceral Dance](https://www.visceraldance.com) [2025-Present]{.cvdate}
+###### **Director of the Arts**, [Community College of Baltimore County](https://www.ccbcmd.edu) [2025-Present]{.cvdate}
+
+
+###### **Executive Director**, [Visceral Dance](https://www.visceraldance.com) [2025]{.cvdate}
 
 -   Spearheaded long-range strategic planning and programming for the 2025–26 season.
 -   Developed organizational budget aligning programmatic, artistic, and financial goals.
